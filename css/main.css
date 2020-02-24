@@ -1,0 +1,80 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Shadows Into Light Two';
+    max-width: 1280px;
+    margin: 0 auto;
+    font-size: 28px;
+    
+}
+
+h1, h2 {
+    font-family: 'Amatic SC';
+        
+}
+
+/***** HEADER *****/
+
+header {
+    background-color:#5fbce0e5;
+    padding: 30px 40px;
+    
+}
+
+header h1 {
+    font-size: 80px;
+    margin-bottom: 40px;
+    color: lightgray;
+    text-align: center;
+}
+
+
+
+}
+
+header a:hover {
+    background-color :grey;
+    color: #ffffff
+
+}
+
+/***** ADVICE *****/
+
+
+
+.advice {
+    padding: 10px 40px;
+    background-color: #575c5a04;
+    border-top: 10px dashed grey;
+    border-bottom: 10px dashed grey;
+}
+
+.advice h2 {
+    font-size: 60px;
+    color: #5fbce0e5;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    
+}
+
+.advice p {
+    font-size: 28px;
+    line-height: 40px;
+    color: grey;
+    
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color:#5fbce0e5;
+}
+
+footer p {
+    color: lightgray;
+    text-align: center;
+    text-transform: lowercase;
+    
+}
